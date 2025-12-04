@@ -1,4 +1,4 @@
-- Created a diseases prediction and diagnosis model using machine learning models.    
+<img width="1302" height="836" alt="image" src="https://github.com/user-attachments/assets/e56de867-a2e2-4a87-abd0-34f0982f247b" />- Created a diseases prediction and diagnosis model using machine learning models.    
 - Uses various classification models like KNN, Naive Bayes, Random Forest, SVM to predict the disease based on the symptoms provided by the user.    
 - Used ensemble learning model to get the most voted result out of all four models.     
 - Created rest api using flask to handle query from frontend built using react.   
@@ -7,7 +7,7 @@
 {   
     "symptoms" : ["cold_hands_and_feets", "restlessness"]   
 }    
-- Live link - https://disease-predictor-iota.vercel.app/
+- Live link - [https://disease-predictor-ivory.vercel.app/]
 
 
 
